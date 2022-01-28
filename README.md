@@ -1,26 +1,66 @@
 ![una-taza-de-javascript](https://user-images.githubusercontent.com/89862918/151557380-66fcc439-d690-403e-ad9a-330ccda26fcd.png)
+<hr>
+<p style="font-size: 10px;" >ES</p>
+<hr>
+<h1 align="center">Hola Mi nombre es Joaquin
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+</h1>
+<div>
+  <p align="center"> Actualmente estoy formándome como FullStack Web Developer en SoyHenry</p>
+</div>
 
-
-English
-- 👋 Hi, I’m @JoacoDiSant
-- 👀 I’m interested in front-end Engine
-- 🌱 I’m currently learning Js,SCSS,API
-- 💞️ I am looking to collaborate in a project that enriches my basic knowledge
-- 📫 You can contact me through:
-
-  -Linkedin: https://www.linkedin.com/in/joaquindisantodev/
-  
-  -GitHub: https://github.com/JoacoDiSant
-
-
-Español
-- 👋 Hola, soy @JoacoDiSant
-- 👀 Mi interes actual es el front-end Engine
-- 🌱 Estoy aprendiendo Js,HTML,SCSS
-- 💞️ Estoy buscando colaborar en un proyecto que enriquezca mis conocimientos basicos
-- 📫 Me pueden contactar a travez de:
-
-  -Linkedin: https://www.linkedin.com/in/joaquindisantodev/
-  
-  -GitHub: https://github.com/JoacoDiSant
-
+```json
+{
+  "name": "JoacoDiSant",
+  "skills":{
+    "Back-end":{
+      "Express",
+      "Node.js",
+      "Sequelize",
+      "TypeScript",
+    },
+    "Front-end":{
+      "React",
+      "Redux",
+      "React-native",
+      "Sass",
+      "CSS",
+      "HTML5",
+      "Javascript"
+    },
+    "Database":{
+      "Postgres",
+      "MySQL"
+    },
+    "Extra Skills":{
+      "Git",
+      "GitBash",
+      "GitHub",
+      "Figma",
+      "Adobe Photoshop"
+    }
+  }
+  "proyects":{
+    "Proyecto Individual para SoyHenry",
+    "App del clima",
+  },
+  "FutureTecnologies":{
+    "PHP",
+    "Python",
+    "Go",
+  },
+  "Aspirations":{
+    "MachineLearning",
+    "AI",
+    "IOT",
+    "Video Game Developer"
+  }
+}
+```
+<hr>
+<h2 align="center" >Puedes Contactarme A travez de: </h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/joaquindisantodev/">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+    </a>
+</p>
