@@ -3,9 +3,11 @@
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 </h1>
 <div>
-  <p align="center"> Actualmente estoy formándome como FullStack Web Developer en SoyHenry</p>
+  <p align="center"> Me desempeño como FullStack Web Developer </p>
 </div>
-
+<div>
+  <p align="center"> Estas son Mis Skills y Aspiraciones </p>
+</div>
 ```json
 {
   "name": "JoacoDiSant",
