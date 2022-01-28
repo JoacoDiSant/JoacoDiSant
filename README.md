@@ -8,6 +8,7 @@
 <div>
   <p align="center"> Estas son Mis Skills y Aspiraciones </p>
 </div>
+
 ```json
 {
   "name": "JoacoDiSant",
