@@ -44,12 +44,12 @@
     "Proyecto Individual para SoyHenry",
     "App del clima",
   },
-  "FutureTecnologies":{
+  "future tecnologies":{
     "PHP",
     "Python",
     "Go",
   },
-  "Aspirations":{
+  "aspirations":{
     "MachineLearning",
     "AI",
     "IOT",
