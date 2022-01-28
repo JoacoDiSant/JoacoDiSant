@@ -39,7 +39,6 @@
   }
   "proyects":{
     "Proyecto Individual para SoyHenry",
-    "App del clima",
   },
   "future tecnologies":{
     "PHP",
