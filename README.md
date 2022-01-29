@@ -63,6 +63,6 @@
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
     <a href="https://www.linkedin.com/in/joaquindisantodev/">
-      <img src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" height="20" width="20" />
+      <img src="https://img2.freepng.es/20180410/wfe/kisspng-computer-icons-web-development-globe-internet-globe-5acd2b4b4c3171.2078146715233954033121.jpg" height="20" width="20" />
     </a>
 </p>
