@@ -62,7 +62,7 @@
     <a href="https://www.linkedin.com/in/joaquindisantodev/">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
-    <a href="https://www.linkedin.com/in/joaquindisantodev/">
+    <a href="https://portfolio-joaquin.vercel.app/">
       <img src="https://c0.klipartz.com/pngpicture/272/463/gratis-png-computadora-iconos-web-desarrollo-globo-internet-globo.png" height="20" width="20" />
     </a>
 </p>
