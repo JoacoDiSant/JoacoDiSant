@@ -1,4 +1,3 @@
-![una-taza-de-javascript](https://user-images.githubusercontent.com/89862918/151557380-66fcc439-d690-403e-ad9a-330ccda26fcd.png)
 <h1 align="center">Hola Mi nombre es Joaquin
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 </h1>
