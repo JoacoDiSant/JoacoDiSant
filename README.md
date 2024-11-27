@@ -43,9 +43,9 @@
     "Proyecto Individual para SoyHenry",
   },
   "future tecnologies":{
-    "PHP",
-    "Python",
-    "Go",
+   "React Native",
+    "AWS",
+    "Azure"
   },
   "aspirations":{
     "MachineLearning",
